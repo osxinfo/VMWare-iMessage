@@ -1,20 +1,18 @@
-# Instructions
+# Açıklamalar
 
-This should work with OSX and Windows on VMWare Fuison and WMWare Workstation.
+Bu rehberdeki adımlar OSX ve Windows üzerinde VMWare Fuison ve WMWare Workstation uygundur.
 
-This guide has been tested with WMWare Fusion 8 on OS X 10.11.5 and macOS Sierra 10.12 Public Beta 1 as guest OS.
+Bu kılavuz,OS X 10.11.5 ve MacOS Sierra 10.12 Public Beta 1 üzerinde VMWare Fusion 8 ile test edilmiştir.
+## genel bakış
 
-## Overview
-
-1. Requirements
-2. The problem
-3. Generating Values
+1. Gerekenler
+2. Problem
+3. Değer Yaratma
     1. Serial
     2. MAC Adress
     3. MLB + ROM
-4. GO!
 
-## 1. Requirements
+## 1. Gerekenler
 You will need a genuine OSX Copy freshly installed.
 
 It will NOT work with OS X distros like Niresh or Yosemite.Zone.
